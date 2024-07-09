@@ -20,4 +20,4 @@ Download the script and execute it by doing either:
 
 Outputs will be relative to the script, so it's recommended to place the script in its own folder. Your unlocked_myfile.xlsx will be placed in the same directory as the script.
 
-Script by whllm. You are free to copy, modify, redistribute and/or use as you see fit. This is a free tool, and is offered without warranty or guarantee of any kind. 
+Script by whllm. You are free to copy, modify, redistribute and/or use as you see fit. This is a free tool intended for internal use, and is offered without warranty or guarantee of any kind. 
