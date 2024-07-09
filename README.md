@@ -9,8 +9,9 @@ Usage:
 
 Download the script and execute it by doing either:
 
-    Right-click -> Run with Powershell
-    Or running it directly from the terminal
+  Right-click -> Run with Powershell
+  
+  Or running it directly from the terminal
 
 ```powershell
 .\xlsx-unlocker.ps1 # Allows you to select from window dialog
