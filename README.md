@@ -8,6 +8,7 @@ This does *nothing* for documents which are encrypted at the document/workbook l
 Usage:
 
 Download the script and execute it by doing either:
+
     Right-click -> Run with Powershell
     Or running it directly from the terminal
 
