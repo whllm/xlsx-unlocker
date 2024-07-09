@@ -1,8 +1,8 @@
 # XLSX Unlocker
 
-This powershell script iterates through individual sheets and removes protection.
-Protection is only removed at the sheet level.
-This does *nothing* for documents which are password protected or encrypted at the document level.
+This powershell script iterates through individual worksheets and removes protection.
+Protection is only removed at the worksheet level.
+This does *nothing* for documents which are encrypted at the document/workbook level.
 
 
 Usage:
